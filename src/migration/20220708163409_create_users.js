@@ -3,7 +3,7 @@ exports.up = (knex) => {
     t.increments("id").primary();
     t.string("name").notNull();
     t.string("email").notNull().unique();
-    t.string("passsword").notNull();
+    t.string("password").notNull();
   });
 };
 
