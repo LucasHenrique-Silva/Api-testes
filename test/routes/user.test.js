@@ -2,6 +2,8 @@ const request = require("supertest");
 
 const app = require("../../src/app");
 
+const mail = `${Date.now()}@gmail.com`;
+
 test("Deve listar todos os usuarios", () => {
   return request(app)
     .get("/users")
@@ -12,7 +14,6 @@ test("Deve listar todos os usuarios", () => {
 });
 
 test("Deve inserir usuario com sucesso", () => {
-  const mail = `${Date.now()}@gmail.com`;
   return request(app)
     .post("/users")
     .send({
@@ -27,11 +28,11 @@ test("Deve inserir usuario com sucesso", () => {
 });
 
 test("Nao deve inserir usuario sem nome", () => {
-  const mail = `${Date.now()}@gmail.com`;
+  const maile = `${Date.now()}@gmail.com`;
   return request(app)
     .post("/users")
     .send({
-      email: mail,
+      email: maile,
       password: "123456",
     })
     .then((res) => {
@@ -51,14 +52,28 @@ test("Nao deve inserir usuario sem email", async () => {
 });
 
 test("Nao deve inserir usuario sem senha", () => {
-  const mail = `${Date.now()}@gmail.com`;
+  const maile = `${Date.now()}@gmail.com`;
+  return request(app)
+    .post("/users")
+    .send({
+      name: "Diogo",
+      email: maile,
+    })
+    .then((res) => {
+      expect(res.status).toBe(400);
+    });
+});
+
+test("Não deve inserir usuario com mesmo email", () => {
   return request(app)
     .post("/users")
     .send({
       name: "Diogo",
       email: mail,
+      password: "123456",
     })
     .then((res) => {
       expect(res.status).toBe(400);
+      expect(res.body.error).toBe("Email já cadastrado");
     });
 });
