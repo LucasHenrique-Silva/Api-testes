@@ -1,8 +1,12 @@
 /* eslint-disable nonblock-statement-body-position */
+
+const validationErrors = require("../errors/validationErrors");
+
 /* eslint-disable curly */
 module.exports = (app) => {
   const save = (account) => {
-    if (!account.name) return { error: "Nome é obrigatorio" };
+    // eslint-disable-next-line new-cap
+    if (!account.name) throw new validationErrors("Nome é obrigatorio");
     return app.db("accounts").insert(account, "*");
   };
 

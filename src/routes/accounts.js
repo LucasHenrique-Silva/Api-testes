@@ -1,9 +1,14 @@
 // rotas
 module.exports = (app) => {
+  // eslint-disable-next-line consistent-return
   const create = async (req, res) => {
-    const result = await app.services.account.save(req.body);
-    if (result.error) return res.status(400).json(result);
-    return res.status(201).json(result[0]);
+    try {
+      const result = await app.services.account.save(req.body);
+
+      return res.status(201).json(result[0]);
+    } catch (error) {
+      res.status(400).json({ error: error.message });
+    }
   };
 
   const findAll = (req, res) => {
