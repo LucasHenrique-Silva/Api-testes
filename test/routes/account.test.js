@@ -68,3 +68,13 @@ test("Devo alterar uma conta", () => {
         });
     });
 });
+
+test("Devo remover contas", () => {
+  return app
+    .db("accounts")
+    .insert({ name: "Acc to remove", user_id: user.id }, ["id"])
+    .then((acc) => request(app).delete(`${MAIN_ROUTE}/${acc[0].id}`))
+    .then((res) => {
+      expect(res.status).toBe(204);
+    });
+});
