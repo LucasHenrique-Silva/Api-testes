@@ -3,6 +3,7 @@ module.exports = (app) => {
     .route("/users")
     .get(app.routes.users.findAll)
     .post(app.routes.users.create);
+  app.route("/user/:id").get(app.routes.users.findOne);
 
   app.route("/account").post(app.routes.accounts.create);
   app.route("/account").get(app.routes.accounts.findAll);
