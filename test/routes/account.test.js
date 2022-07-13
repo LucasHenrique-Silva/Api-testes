@@ -24,3 +24,47 @@ test("Deve inserir uma conta com sucesso", () => {
       expect(result.body.name).toBe("#acc1");
     });
 });
+
+test("Deve listar todas as contas", () => {
+  return app
+    .db("accounts")
+    .insert({ name: "Acc list", user_id: user.id })
+    .then(() => {
+      request(app)
+        .get(MAIN_ROUTE)
+        .then((res) => {
+          expect(res.status).toBe(200);
+          expect(res.body.length).toBeGreaterThan(0);
+        });
+    });
+});
+
+test("Deve retornar uma conta pelo id", () => {
+  return app
+    .db("accounts")
+    .insert({ name: "Acc by id", user_id: user.id }, ["id"])
+    .then((acc) => {
+      request(app)
+        .get(`${MAIN_ROUTE}/${acc[0].id}`)
+        .then((res) => {
+          expect(res.status).toBe(200);
+          expect(res.body.name).toBe("Acc by id");
+          expect(res.body.user_id).toBe(user.id);
+        });
+    });
+});
+
+test("Devo alterar uma conta", () => {
+  return app
+    .db("accounts")
+    .insert({ name: "Acc to update", user_id: user.id }, ["id"])
+    .then((acc) => {
+      request(app)
+        .put(`${MAIN_ROUTE}/${acc[0].id}`)
+        .send({ name: "Acc updated" })
+        .then((res) => {
+          expect(res.status).toBe(200);
+          expect(res.body.name).toBe("Acc updated");
+        });
+    });
+});
