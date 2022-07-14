@@ -1,24 +1,23 @@
-/* eslint-disable consistent-return */
+const express = require("express");
+
 module.exports = (app) => {
-  const findAll = (req, res) => {
-    app.services.user.findAll().then((result) => res.status(200).json(result));
-  };
+  const router = express.Router();
 
-  const findOne = (req, res) => {
+  router.get("/", (req, res, next) => {
     app.services.user
-      .findOne({ id: req.params.id })
-      .then((result) => res.status(200).json(result));
-  };
+      .findAll()
+      .then((result) => res.status(200).json(result))
+      .catch((err) => next(err));
+  });
 
-  const create = async (req, res) => {
+  router.post("/", async (req, res, next) => {
     try {
       const result = await app.services.user.save(req.body);
-
-      res.status(201).json(result[0]);
+      return res.status(201).json(result[0]);
     } catch (err) {
-      res.status(400).json({ error: err.message });
+      return next(err);
     }
-  };
+  });
 
-  return { findAll, create, findOne };
+  return router;
 };

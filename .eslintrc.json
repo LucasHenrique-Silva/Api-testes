@@ -1,16 +1,17 @@
 {
   "env": {
-    "browser": true,
-    "es2021": true,
     "jest": true
   },
-  "extends": ["airbnb-base"],
-  "parserOptions": {
-    "ecmaVersion": "latest"
-  },
+  "extends": "airbnb-base",
   "rules": {
     "linebreak-style": "off",
     "quotes": "off",
-    "arrow-body-style": "off"
+    "arrow-body-style": "off",
+    "object-curly-newline": [
+      "error",
+      {
+        "multiline": true
+      }
+    ]
   }
 }

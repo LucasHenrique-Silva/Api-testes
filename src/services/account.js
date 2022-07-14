@@ -1,31 +1,38 @@
+/* eslint-disable object-curly-newline */
 /* eslint-disable nonblock-statement-body-position */
-
-const validationErrors = require("../errors/validationErrors");
-
 /* eslint-disable curly */
+const ValidationError = require("../errors/validationErrors");
+
 module.exports = (app) => {
-  const save = (account) => {
-    // eslint-disable-next-line new-cap
-    if (!account.name) throw new validationErrors("Nome é obrigatorio");
-    return app.db("accounts").insert(account, "*");
+  const findAll = (userId) => {
+    return app.db("accounts").where({ user_id: userId });
   };
 
-  const gfindAll = () => {
-    return app.db("accounts");
-  };
-
-  const gfindById = async (filter = {}) => {
+  const find = (filter = {}) => {
     return app.db("accounts").where(filter).first();
   };
 
-  const gupdate = (id, account) => {
-    return app.db("accounts").where(id).first().update(account, "*");
+  const save = async (account) => {
+    if (!account.name)
+      throw new ValidationError("Nome é um atributo obrigatório");
+
+    const accDb = await find({ name: account.name, user_id: account.user_id });
+    if (accDb) throw new ValidationError("Já existe uma conta com esse nome");
+
+    return app.db("accounts").insert(account, "*");
   };
 
-  const gremove = (id) => {
+  const update = (id, account) => {
+    return app.db("accounts").where({ id }).update(account, "*");
+  };
+
+  const remove = async (id) => {
+    const transaction = await app.services.transaction.findOne({ acc_id: id });
+    if (transaction)
+      throw new ValidationError("Essa conta possui transações associadas");
+
     return app.db("accounts").where({ id }).del();
   };
 
-  // eslint-disable-next-line object-curly-newline
-  return { save, gfindAll, gfindById, gupdate, gremove };
+  return { save, findAll, find, update, remove };
 };
