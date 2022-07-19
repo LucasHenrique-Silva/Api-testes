@@ -1,3 +1,4 @@
+/* eslint-disable operator-linebreak */
 const request = require("supertest");
 const moment = require("moment");
 const app = require("../../src/app");
@@ -5,15 +6,17 @@ const app = require("../../src/app");
 const MAIN_ROUTE = "/v1/balance";
 const ROUTE_TRANSACTION = "/v1/transactions";
 const ROUTE_TRANSFER = "/v1/transfers";
-const TOKEN = "";
-const TOKEN_GERAL = "";
+const TOKEN =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.Lsev5j_1ikTUAIiwIRQZoFEfVoyDxdf9LDF7G0W4Vp0";
+const TOKEN_GERAL =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.Lsev5j_1ikTUAIiwIRQZoFEfVoyDxdf9LDF7G0W4Vp0";
 
 beforeAll(async () => {
   await app.db.seed.run();
 });
 
 describe("Ao calcular o saldo do usuário...", () => {
-  test("Deve retornar apenas as contas com alguma transação", () => {
+  test.only("Deve retornar apenas as contas com alguma transação", () => {
     return request(app)
       .get(MAIN_ROUTE)
       .set("authorization", `bearer ${TOKEN}`)

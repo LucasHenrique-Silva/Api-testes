@@ -9,7 +9,7 @@ module.exports = (app) => {
   };
 
   const findOne = (filter = {}) => {
-    return app.db("users").where(filter).first();
+    return app.db("users").where(filter);
   };
 
   const getpasswordHash = (password) => {

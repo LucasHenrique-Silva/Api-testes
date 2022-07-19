@@ -1,10 +1,12 @@
+/* eslint-disable operator-linebreak */
 /* eslint-disable comma-dangle */
 /* eslint-disable implicit-arrow-linebreak */
 const request = require("supertest");
 const app = require("../../src/app");
 
 const MAIN_ROUTE = "/v1/transfers";
-const TOKEN = "";
+const TOKEN =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.Lsev5j_1ikTUAIiwIRQZoFEfVoyDxdf9LDF7G0W4Vp0";
 
 beforeAll(async () => {
   // await app.db.migrate.rollback();
@@ -57,7 +59,7 @@ describe("Ao salvar uma transferência válida...", () => {
   let income;
   let outcome;
 
-  test("Deve retornar o status 201 e os dados da transferência", () => {
+  test.only("Deve retornar o status 201 e os dados da transferência", () => {
     return request(app)
       .post(MAIN_ROUTE)
       .set("authorization", `bearer ${TOKEN}`)
