@@ -42,7 +42,7 @@ test("Não deve autenticar usuário com senha errada", () => {
     )
     .then((res) => {
       expect(res.status).toBe(400);
-      expect(res.body.error).toBe("Usuário ou senha inválido");
+      expect(res.body.error).toBe("Usuário ou senha invalido");
     });
 });
 
@@ -52,7 +52,7 @@ test("Não deve autenticar usuário com senha errada", () => {
     .send({ email: "naoExiste@email.com", password: "654321" })
     .then((res) => {
       expect(res.status).toBe(400);
-      expect(res.body.error).toBe("Usuário ou senha inválido");
+      expect(res.body.error).toBe("Usuário ou senha invalido");
     });
 });
 

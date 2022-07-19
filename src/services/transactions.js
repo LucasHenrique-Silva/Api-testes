@@ -5,7 +5,7 @@
 const ValidationError = require("../errors/validationErrors");
 
 module.exports = (app) => {
-  const find = (userId, filter = {}) => {
+  const find = async (userId, filter = {}) => {
     return app
       .db("transactions")
       .join("accounts", "accounts.id", "acc_id")

@@ -162,6 +162,7 @@ test("Deve remover uma conta", () => {
         .set("authorization", `bearer ${user.token}`)
     )
     .then((res) => {
+      console.log(res);
       expect(res.status).toBe(204);
     });
 });

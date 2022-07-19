@@ -75,7 +75,7 @@ test("Não deve inserir usuário sem email", async () => {
     .send({ name: "Lucas Henrique", password: "123456" })
     .set("authorization", `bearer ${user.token}`);
   expect(result.status).toBe(400);
-  expect(result.body.error).toBe("email é um atributo obrigatório");
+  expect(result.body.error).toBe("Email é um atributo obrigatório");
 });
 
 test("Não deve inserir usuário sem senha", (done) => {

@@ -1,3 +1,4 @@
+/* eslint-disable arrow-parens */
 const express = require("express");
 const RecursoIndevidoError = require("../errors/RecursoIndevidoError");
 
