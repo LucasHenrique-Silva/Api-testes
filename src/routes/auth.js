@@ -3,7 +3,7 @@ const jwt = require("jwt-simple");
 const bcrypt = require("bcrypt-nodejs");
 const ValidationError = require("../errors/validationErrors");
 
-const secret = "Segredo!";
+const secret = "dsmldamlsdflsafe";
 
 module.exports = (app) => {
   const router = express.Router();

@@ -15,7 +15,7 @@ beforeAll(async () => {
     password: "123456",
   });
   user = { ...res[0] };
-  user.token = jwt.encode(user, "Segredo!");
+  user.token = jwt.encode(user, "dsmldamlsdflsafe");
 });
 
 test("Deve listar todos os usuários", () => {

@@ -33,7 +33,7 @@ beforeAll(async () => {
   );
   [user, user2] = users;
   delete user.password;
-  user.token = jwt.encode(user, "Segredo!");
+  user.token = jwt.encode(user, "dsmldamlsdflsafe");
   const accs = await app.db("accounts").insert(
     [
       { name: "Acc #1", user_id: user.id },
