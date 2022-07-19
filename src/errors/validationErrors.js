@@ -1,4 +1,4 @@
 module.exports = function ValidationError(message) {
-  this.name = "Validation error";
+  this.name = "Validationerror";
   this.message = message;
 };

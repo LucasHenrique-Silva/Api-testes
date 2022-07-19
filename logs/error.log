@@ -222,3 +222,1047 @@
  "level": "error",
  "timestamp": "2022-07-19T17:46:51.486Z"
 }
+{
+ "id": "d90b5f79-73d9-4ce7-9a1a-18278ad4c375",
+ "name": "TypeError",
+ "message": "app.db is not a function",
+ "stack": "TypeError: app.db is not a function\n    at Object.findAll (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\user.js:8:16)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\users.js:8:8\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)",
+ "level": "error",
+ "timestamp": "2022-07-19T17:49:41.196Z"
+}
+{
+ "id": "77a3bbce-f669-4b72-9c7a-6593f4fc97ec",
+ "name": "TypeError",
+ "message": "app.db is not a function",
+ "stack": "TypeError: app.db is not a function\n    at Object.findAll (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\user.js:8:16)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\users.js:8:8\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)",
+ "level": "error",
+ "timestamp": "2022-07-19T17:56:05.671Z"
+}
+{
+ "id": "f5cbdaaf-99ad-4364-830b-a85234447322",
+ "name": "TypeError",
+ "message": "app.db is not a function",
+ "stack": "TypeError: app.db is not a function\n    at Object.findAll (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\user.js:8:16)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\users.js:8:8\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)",
+ "level": "error",
+ "timestamp": "2022-07-19T17:56:06.809Z"
+}
+{
+ "id": "ea37fd9b-d7ed-4dc5-b6ff-64af33e6f250",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T17:56:53.433Z"
+}
+{
+ "id": "747644e5-dc2e-403c-af55-67b9f2f320d9",
+ "name": "Validation error",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2022-07-19T17:56:53.478Z"
+}
+{
+ "id": "107cb29b-b326-4a02-aefe-b500be243a2e",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:49:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:12:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T17:56:53.699Z"
+}
+{
+ "id": "cf3004b2-d790-4a86-a294-8657521685b6",
+ "name": "TypeError",
+ "message": "app.db is not a function",
+ "stack": "TypeError: app.db is not a function\n    at Object.findAll (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\user.js:8:16)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\users.js:8:8\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)",
+ "level": "error",
+ "timestamp": "2022-07-19T17:57:52.243Z"
+}
+{
+ "id": "a00dfab3-5567-40b1-b2c6-125a4ef53f56",
+ "name": "TypeError",
+ "message": "app.db is not a function",
+ "stack": "TypeError: app.db is not a function\n    at Object.findAll (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\user.js:8:16)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\users.js:8:8\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)",
+ "level": "error",
+ "timestamp": "2022-07-19T17:57:53.309Z"
+}
+{
+ "id": "16daa0ef-e1e4-41f9-9cf5-fd94e6e231c7",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:12:52.202Z"
+}
+{
+ "id": "c5957ff3-9707-4d8a-976f-9c46175d8b9b",
+ "name": "Validation error",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2022-07-19T18:12:52.249Z"
+}
+{
+ "id": "814f0d8d-8940-423b-83b8-dffee9bbcb44",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:12:52.363Z"
+}
+{
+ "id": "9ead2738-20d9-4ac5-89d3-83c176c5bc7e",
+ "name": "Validation error",
+ "message": "Usuário ou senha invalido",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:07.554Z"
+}
+{
+ "id": "0bddf76d-091f-40c0-a8a9-c605aa6d7c14",
+ "name": "Validation error",
+ "message": "Usuário ou senha invalido",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:07.584Z"
+}
+{
+ "id": "635ea12d-f86e-4973-9078-9c3d81a20b1e",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:19:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.340Z"
+}
+{
+ "id": "a6f4d356-82a6-4479-a858-858d9dc9a7e4",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.392Z"
+}
+{
+ "id": "6146a34a-8f4b-4843-848b-42f5a5999ca4",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.404Z"
+}
+{
+ "id": "1daa79da-e6a8-4d2c-936a-43eecf687730",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.416Z"
+}
+{
+ "id": "004c368b-d830-41ea-9c97-acb4bdbba010",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.429Z"
+}
+{
+ "id": "a620c6f6-c9d3-47d4-bb04-589e5205289b",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.440Z"
+}
+{
+ "id": "570be27d-07cf-4797-a1e7-a0eb634cb9f4",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.453Z"
+}
+{
+ "id": "d96b0192-56ae-4684-b000-ed44e3a99b16",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.463Z"
+}
+{
+ "id": "f4e3a9cc-c60b-4c53-8618-33cae8cc5702",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.474Z"
+}
+{
+ "id": "c355445c-8c9d-4b87-a04d-6fa4ccf7c8c2",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.484Z"
+}
+{
+ "id": "ea16ba04-2fc0-45e8-bf48-11510127b9e0",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.504Z"
+}
+{
+ "id": "5cfa32a5-eb20-4f12-a667-f7def91ae997",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.523Z"
+}
+{
+ "id": "44a2dd2b-0961-4208-9a75-998c57cd51cb",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.534Z"
+}
+{
+ "id": "04d42c87-f054-49b1-bbb1-3506e50758ec",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.546Z"
+}
+{
+ "id": "3f3f9a71-d136-4dab-8ec2-61b73fe91b45",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:11.566Z"
+}
+{
+ "id": "53b41de1-d513-4319-aaf1-755e996a2af5",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:15.097Z"
+}
+{
+ "id": "3f68c738-6cde-4296-834d-117d710c28bf",
+ "name": "Validation error",
+ "message": "Eemail é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:15.132Z"
+}
+{
+ "id": "51f1e1c3-7967-426a-81d7-dda53f5314b1",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:15.146Z"
+}
+{
+ "id": "32d0bad2-30d2-432d-a80c-2af563722832",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:20.167Z"
+}
+{
+ "id": "de74f63c-ef33-450b-bcba-e76371e62c29",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:21.944Z"
+}
+{
+ "id": "f36a00bb-d858-495a-b5c5-e97a772e6308",
+ "name": "Validation error",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:21.989Z"
+}
+{
+ "id": "83d8c40e-af36-4e6b-84bd-200fc8c47ba2",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:22.127Z"
+}
+{
+ "id": "021a16e4-b446-4232-a72b-146f5124e4d1",
+ "name": "TypeError",
+ "message": "app.db is not a function",
+ "stack": "TypeError: app.db is not a function\n    at Object.findAll (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\user.js:8:16)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\users.js:8:8\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:15:36.869Z"
+}
+{
+ "id": "4bcfb8be-20cc-483a-907a-644024f0cec7",
+ "name": "error",
+ "message": "select \"id\", \"name\", \"email\" from \"users\" - relation \"users\" does not exist",
+ "stack": "error: select \"id\", \"name\", \"email\" from \"users\" - relation \"users\" does not exist\n    at Parser.parseErrorMessage (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:287:98)\n    at Parser.handlePacket (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:126:29)\n    at Parser.parse (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:39:38)\n    at Socket.<anonymous> (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:527:28)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:16:01.471Z"
+}
+{
+ "id": "536f4169-389a-4d6c-82e8-82afeec58640",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:17:21.044Z"
+}
+{
+ "id": "5929eec7-92b8-4ef3-9be4-defbc446b972",
+ "name": "Validation error",
+ "message": "Eemail é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:17:21.086Z"
+}
+{
+ "id": "a43d9ccb-1c7e-4132-b911-7ed974a585d0",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:17:21.107Z"
+}
+{
+ "id": "e8894707-5164-4fb6-be49-7bdc89163b3d",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T18:17:26.189Z"
+}
+{
+ "id": "45bd3861-82ef-41a3-b1db-a5773c4f03d9",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:20:52.088Z"
+}
+{
+ "id": "5151a2ff-4481-48da-b6b0-97492b819b22",
+ "name": "Validation error",
+ "message": "Eemail é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:20:52.136Z"
+}
+{
+ "id": "a725da6c-7698-4a42-b04e-7fa7694116ca",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:20:52.154Z"
+}
+{
+ "id": "c5b2a1d2-0fd8-492b-932e-21ae84b38b83",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T18:20:57.171Z"
+}
+{
+ "id": "20092f99-6fe1-40cf-9ce6-9a95fb0e3202",
+ "name": "error",
+ "message": "select \"id\", \"name\", \"email\" from \"users\" - relation \"users\" does not exist",
+ "stack": "error: select \"id\", \"name\", \"email\" from \"users\" - relation \"users\" does not exist\n    at Parser.parseErrorMessage (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:287:98)\n    at Parser.handlePacket (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:126:29)\n    at Parser.parse (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:39:38)\n    at Socket.<anonymous> (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:527:28)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:21:12.689Z"
+}
+{
+ "id": "f29147fb-83dc-4540-8f19-a469b9d21f70",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:25:36.941Z"
+}
+{
+ "id": "421c5a89-df0b-4c10-bc94-889d56c0c615",
+ "name": "Validation error",
+ "message": "Eemail é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:25:36.978Z"
+}
+{
+ "id": "6523ef41-f591-4b82-aa76-07bbcee55f34",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:25:36.993Z"
+}
+{
+ "id": "332b139c-9186-4489-8c24-787283664b7c",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T18:25:42.015Z"
+}
+{
+ "id": "644dc903-5b9d-435a-9a83-bb30ce9d0bd5",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:28:57.150Z"
+}
+{
+ "id": "a2af1172-3125-4766-81f0-20481b8e51d4",
+ "name": "Validation error",
+ "message": "Eemail é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:28:57.184Z"
+}
+{
+ "id": "f36f5e6d-5dc1-4021-8c9d-5df45987c714",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:28:57.199Z"
+}
+{
+ "id": "a83534be-f4e9-4a29-a37f-55c8a6514f2e",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T18:29:02.207Z"
+}
+{
+ "id": "13250b65-7b0d-4de7-8f8f-a7166146b11e",
+ "name": "Validation error",
+ "message": "Usuário ou senha invalido",
+ "level": "error",
+ "timestamp": "2022-07-19T18:29:04.639Z"
+}
+{
+ "id": "0515c7e6-5110-4945-8f63-fcbc417a1ab5",
+ "name": "Validation error",
+ "message": "Usuário ou senha invalido",
+ "level": "error",
+ "timestamp": "2022-07-19T18:29:04.666Z"
+}
+{
+ "id": "3978d8df-ce76-48ad-83ab-ab5601b6cf04",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:31:14.318Z"
+}
+{
+ "id": "ffd4f5b4-062e-4362-a1ef-f9959227bd84",
+ "name": "Validation error",
+ "message": "Eemail é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:31:14.358Z"
+}
+{
+ "id": "fdb2d9fa-598a-4e5e-a329-23e3c1ee3129",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:31:14.374Z"
+}
+{
+ "id": "2baf6231-f7d7-4c36-a88f-1ee5ba0ee839",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T18:31:19.394Z"
+}
+{
+ "id": "0220caa7-d632-4858-9486-f38b887225b3",
+ "name": "error",
+ "message": "select \"id\", \"name\", \"email\" from \"users\" - relation \"users\" does not exist",
+ "stack": "error: select \"id\", \"name\", \"email\" from \"users\" - relation \"users\" does not exist\n    at Parser.parseErrorMessage (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:287:98)\n    at Parser.handlePacket (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:126:29)\n    at Parser.parse (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\parser.js:39:38)\n    at Socket.<anonymous> (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:527:28)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:35:44.446Z"
+}
+{
+ "id": "318da37f-be36-4a46-9f48-ee1ca5867408",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:43:48.261Z"
+}
+{
+ "id": "ad383d5f-5eeb-4f0e-8a25-3306935a8fdf",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:47:34.922Z"
+}
+{
+ "id": "9e469bb4-07e4-4e97-941c-6ea820c2df89",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:52:16.190Z"
+}
+{
+ "id": "d04f4b98-d986-47c3-8f25-d063651a44f9",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:53:51.840Z"
+}
+{
+ "id": "867ada6c-0e02-41a5-b83f-1eb47ea646c4",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:53:53.120Z"
+}
+{
+ "id": "794737d5-b4a5-46a4-83f4-e6a1e3aa455d",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T18:54:47.808Z"
+}
+{
+ "id": "9a858574-152d-4302-b552-cd57d1a5cfe1",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:55:31.807Z"
+}
+{
+ "id": "f995d010-b1f4-4739-9820-ca571e8984fb",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:55:31.860Z"
+}
+{
+ "id": "9886a06c-1d63-4e0f-84e5-d7de252c7104",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T18:55:31.883Z"
+}
+{
+ "id": "0bff501d-84bd-48c8-85e7-784fdeac1ffe",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T18:55:36.901Z"
+}
+{
+ "id": "9fafef35-b5ad-40f5-ac4e-a12445643b77",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:13:34.852Z"
+}
+{
+ "id": "1d438a8f-19d1-4b6c-8064-b1adc16eec21",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:13:34.898Z"
+}
+{
+ "id": "37fe608f-2465-437c-a278-bdf12dc12df6",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:13:34.913Z"
+}
+{
+ "id": "77bf9511-daae-4a3f-8670-7ac46796e18b",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:13:39.932Z"
+}
+{
+ "id": "6be0f9f5-0873-4886-909e-58aa5e20f5b0",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:14:57.661Z"
+}
+{
+ "id": "55281a40-7994-4df1-a94a-73bec7e8f723",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:14:57.710Z"
+}
+{
+ "id": "40afab04-83d0-4d8f-8314-d22db9e39e8d",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:14:57.846Z"
+}
+{
+ "id": "4838ee84-bcfb-426e-9405-249a15f88ead",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:15:02.796Z"
+}
+{
+ "id": "9f58df06-71c3-4fbd-872e-b93d6558bad4",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:16:35.957Z"
+}
+{
+ "id": "d78f987a-5ed9-4b46-80ee-012b9bfccc84",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:16:35.998Z"
+}
+{
+ "id": "6b2389c7-a4b6-4906-b3cd-3c1ee57b268d",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:16:36.024Z"
+}
+{
+ "id": "9913c714-ad6c-47d6-8411-fd79ec4804b3",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:16:41.025Z"
+}
+{
+ "id": "3f2a635a-fd3d-494f-ad53-2caf87b4daca",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:17:36.433Z"
+}
+{
+ "id": "2d745636-5a16-4b75-864b-13d3516debd1",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:17:36.617Z"
+}
+{
+ "id": "a4bef3a5-d592-44ce-bc46-dc32c965d6b2",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:17:36.639Z"
+}
+{
+ "id": "ccffa87b-9e7b-4d5f-aea8-74a0fb85a278",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:17:41.647Z"
+}
+{
+ "id": "43bb284f-16aa-4696-9144-8477bb11f8bd",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:18:29.929Z"
+}
+{
+ "id": "54bfdd8b-5ffe-4cbf-abf9-7411b4566086",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:18:30.216Z"
+}
+{
+ "id": "13650c63-2243-4dcb-b474-6b8baa92f7bc",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:18:30.231Z"
+}
+{
+ "id": "87450336-70df-4af1-820e-05ba6ded14f2",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:18:35.245Z"
+}
+{
+ "id": "fc726135-b71a-493c-9694-65ab3cbb778a",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:19:54.573Z"
+}
+{
+ "id": "b342e0bb-12f5-4b9e-bae1-2966651af765",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:19:54.748Z"
+}
+{
+ "id": "8c653e86-4cae-428f-9eaf-e7a1afb71b5c",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:19:54.766Z"
+}
+{
+ "id": "f44f9798-9d33-42ee-86d3-5c30cee85a32",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:19:59.781Z"
+}
+{
+ "id": "6caab055-50e1-4d53-a517-2e0216d1f183",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:20:36.698Z"
+}
+{
+ "id": "eb7f0fe8-ec7e-4921-a661-926053766c07",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:20:36.864Z"
+}
+{
+ "id": "c4d10f19-a95c-487c-8c11-a0693bc2d3f4",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:20:36.882Z"
+}
+{
+ "id": "79abaf09-e0c0-4b7a-a795-8d8dcb55b55d",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:20:41.904Z"
+}
+{
+ "id": "dcf9c3ec-6007-47a7-9d2f-2245d45ff2d0",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:21:46.665Z"
+}
+{
+ "id": "f1e4b0a7-679c-4500-abf2-6b80b3675a8b",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:21:46.720Z"
+}
+{
+ "id": "21028cb2-ceb2-4574-9b30-8027f7a074ea",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:21:46.736Z"
+}
+{
+ "id": "de08ac60-db2d-450c-9267-547fc80881ea",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:21:51.748Z"
+}
+{
+ "id": "f6cde08b-4d06-4605-801c-115b0ac1dc46",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:24:35.628Z"
+}
+{
+ "id": "c9da6f4f-d51f-48aa-a540-e884f3ba9cf1",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:25:31.913Z"
+}
+{
+ "id": "53a7ed08-9ff5-47c6-a25e-d27eaaa9f895",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:25:32.970Z"
+}
+{
+ "id": "f27d76ed-b12e-4cc5-878b-42eb3f513d5a",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:26:33.857Z"
+}
+{
+ "id": "84c7e4a4-9384-4582-8849-4072643742b6",
+ "name": "Validation error",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2022-07-19T19:26:33.919Z"
+}
+{
+ "id": "9de012bd-6a3f-4a8b-904d-b984eddb9611",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:26:34.064Z"
+}
+{
+ "id": "7eddbe32-62ea-4367-9b41-e4252aad6754",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'id')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:29:25\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:27:34.541Z"
+}
+{
+ "id": "c32034d3-90d8-47e9-a5fa-f5572ba0f128",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:17.648Z"
+}
+{
+ "id": "dd34df71-3b00-4f0e-957c-22cc9167ff0d",
+ "name": "Validation error",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:17.700Z"
+}
+{
+ "id": "edf92a28-58e7-4756-a722-09affdd358d4",
+ "name": "Validation error",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:17.714Z"
+}
+{
+ "id": "8c7ae8f1-d9a5-4023-a36c-5ec039ddc89f",
+ "name": "Validation error",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:22.726Z"
+}
+{
+ "id": "a947947f-ad6e-4e07-a5e0-44daa20a43e7",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:24.497Z"
+}
+{
+ "id": "c62a0900-1bb4-4ceb-a662-842ca85c36ab",
+ "name": "Validation error",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:24.549Z"
+}
+{
+ "id": "22ec3dec-12b7-4f6f-b62b-52d8aeb8ab76",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:24.669Z"
+}
+{
+ "id": "ffa17bb7-b867-411c-961d-a994448c6327",
+ "name": "Validation error",
+ "message": "Usuário ou senha invalido",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:27.339Z"
+}
+{
+ "id": "90d2524d-3912-4de2-9a83-74cc70334dc2",
+ "name": "Validation error",
+ "message": "Usuário ou senha invalido",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:27.368Z"
+}
+{
+ "id": "4b327e0e-8710-44f6-8df6-3860543d94f1",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:19:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:29.962Z"
+}
+{
+ "id": "d5b2d068-800c-4fc5-8081-99fe8307962f",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.005Z"
+}
+{
+ "id": "5ca566be-3a0d-459c-8d22-30bd77a98838",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.017Z"
+}
+{
+ "id": "f77c64cb-dddf-4e81-b4d4-c53ad55fcf5e",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.028Z"
+}
+{
+ "id": "f9dbf0ac-09be-4c60-8291-e59b24e5ffea",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.041Z"
+}
+{
+ "id": "868e062e-b503-4423-978f-c48c9b34f869",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.053Z"
+}
+{
+ "id": "cc9d1273-1da7-44db-a776-5ca4548f5419",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.064Z"
+}
+{
+ "id": "e928a635-80a9-4cb6-9987-06f436c21b4a",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.074Z"
+}
+{
+ "id": "a9fa50d3-012a-41f8-bcc9-2f777f2b17d2",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.086Z"
+}
+{
+ "id": "14a6f390-5edc-4e9b-9465-6adad413e7f9",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'save')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'save')\n    at save (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:26:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.098Z"
+}
+{
+ "id": "e5b05a86-c8e0-4eb6-be57-0805c0502bdb",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.108Z"
+}
+{
+ "id": "ce13ade8-f0c3-449b-8672-d48a87ef53a5",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.122Z"
+}
+{
+ "id": "0e73abb9-0ca3-48db-903d-dce3c83698ab",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.134Z"
+}
+{
+ "id": "bf716b89-cffe-47b9-a7f3-38c0f41f3771",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'find')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'find')\n    at find (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\transaction.js:9:8)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:404:7)\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:384:5)\n    at Function.process_params (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:284:7",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.146Z"
+}
+{
+ "id": "27807926-12fb-4cd7-a063-16d39970cb3e",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:29:30.166Z"
+}
+{
+ "id": "e6b4943c-6e5a-4e53-a324-c6de25905270",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:31:10.985Z"
+}
+{
+ "id": "9d1a3d29-e939-405c-a39f-eba611253204",
+ "name": "Validation error",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2022-07-19T19:31:11.029Z"
+}
+{
+ "id": "c5607746-b908-4f3e-adb1-244e41fa0bc4",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:31:11.176Z"
+}
+{
+ "id": "d0ed2980-f2e2-4724-a39c-16badd0c3ae6",
+ "name": "Validation error",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2022-07-19T19:35:25.919Z"
+}
+{
+ "id": "b4e3d28b-3a49-4814-90c1-d1eb8a13426e",
+ "name": "Validation error",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2022-07-19T19:35:25.969Z"
+}
+{
+ "id": "a6522a70-1765-4a63-9283-2a76ab966b6e",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:35:26.106Z"
+}
+{
+ "id": "617d8235-87cb-41eb-a61b-1be920625236",
+ "name": "TypeError",
+ "message": "Cannot read properties of undefined (reading 'findOne')",
+ "stack": "TypeError: Cannot read properties of undefined (reading 'findOne')\n    at Object.findOne [as remove] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\services\\account.js:30:56)\n    at remove (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:50:8)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at paramCallback (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\node_modules\\express\\lib\\router\\index.js:401:21)\n    at next (C:\\Users\\lucas\\Desktop\\Progamação\\Desenvolvimento Web\\Pasta\\nodejs\\Api-testes\\src\\routes\\accounts.js:13:14)",
+ "level": "error",
+ "timestamp": "2022-07-19T19:36:00.865Z"
+}

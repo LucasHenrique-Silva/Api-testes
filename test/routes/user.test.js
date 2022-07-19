@@ -63,6 +63,7 @@ test("Não deve inserir usuário sem nome", () => {
     .send({ email: "Lucas@email.com", password: "123456" })
     .set("authorization", `bearer ${user.token}`)
     .then((res) => {
+      console.log(res.body);
       expect(res.status).toBe(400);
       expect(res.body.error).toBe("Nome é um atributo obrigatório");
     });

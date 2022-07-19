@@ -28,7 +28,7 @@ beforeAll(async () => {
   user2 = { ...res2[0] };
 });
 
-test.only("Deve inserir uma conta com sucesso", () => {
+test("Deve inserir uma conta com sucesso", () => {
   return request(app)
     .post(MAIN_ROUTE)
     .send({ name: "Acc #1" })

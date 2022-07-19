@@ -4,13 +4,13 @@
 /* eslint-disable nonblock-statement-body-position */
 const app = require("express")();
 const consign = require("consign");
-const knex = require("knex")({ client: "pg" });
+const knex = require("knex");
 const winston = require("winston");
 const uuid = require("uuidv4");
 
 const knexfile = require("../knexfile");
 
-app.db = knex(knexfile[process.env.NODE_ENV]);
+app.db = knex(knexfile.test);
 
 app.log = winston.createLogger({
   level: "debug",
@@ -44,7 +44,7 @@ app.get("/", (req, res) => {
 
 app.use((err, req, res, next) => {
   const { name, message, stack } = err;
-  if (name === "ValidationError") res.status(400).json({ error: message });
+  if (name === "Validationerror") res.status(400).json({ error: message });
   else if (name === "RecursoIndevidoError")
     res.status(403).json({ error: message });
   else {

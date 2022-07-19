@@ -20,7 +20,7 @@ module.exports = (app) => {
   const save = async (user) => {
     if (!user.name) throw new ValidationError("Nome é um atributo obrigatório");
     if (!user.email)
-      throw new ValidationError("Eemail é um atributo obrigatório");
+      throw new ValidationError("Email é um atributo obrigatório");
     if (!user.password)
       throw new ValidationError("Senha é um atributo obrigatório");
 
