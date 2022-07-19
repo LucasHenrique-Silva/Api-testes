@@ -4,13 +4,13 @@
 /* eslint-disable nonblock-statement-body-position */
 const app = require("express")();
 const consign = require("consign");
-const knex = require("knex");
+const knex = require("knex")({ client: "pg" });
 const winston = require("winston");
 const uuid = require("uuidv4");
 
 const knexfile = require("../knexfile");
 
-app.db = knex(knexfile.test);
+app.db = knex(knexfile[process.env.NODE_ENV]);
 
 app.log = winston.createLogger({
   level: "debug",
