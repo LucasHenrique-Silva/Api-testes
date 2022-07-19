@@ -1,3 +1,4 @@
+/* eslint-disable arrow-parens */
 /* eslint-disable comma-dangle */
 /* eslint-disable function-paren-newline */
 /* eslint-disable implicit-arrow-linebreak */
@@ -9,6 +10,7 @@ const MAIN_ROUTE = "/v1/accounts";
 let user;
 let user2;
 
+jest.setTimeout(30000);
 beforeAll(async () => {
   const res = await app.services.user.save({
     name: "User Account",
@@ -16,7 +18,8 @@ beforeAll(async () => {
     password: "123456",
   });
   user = { ...res[0] };
-  user.token = jwt.encode(user, "Segredo!");
+  user.token = jwt.encode(user, "dsmldamlsdflsafe");
+
   const res2 = await app.services.user.save({
     name: "User Account #2",
     email: `${Date.now()}@email.com`,

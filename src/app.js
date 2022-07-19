@@ -4,13 +4,13 @@
 /* eslint-disable nonblock-statement-body-position */
 const app = require("express")();
 const consign = require("consign");
-const knex = require("knex")({ client: "pg" });
+const knex = require("knex");
 const winston = require("winston");
 const uuid = require("uuidv4");
 
 const knexfile = require("../knexfile");
 
-app.db = knex(knexfile[process.env.NODE_ENV]);
+app.db = knex(knexfile.test);
 
 app.log = winston.createLogger({
   level: "debug",
@@ -31,7 +31,7 @@ app.log = winston.createLogger({
 
 consign({ cwd: "src", verbose: false })
   .include("./config/passport.js")
-  .then("./config/middlewares.js")
+  .then("./config/middleware.js")
   .then("./services")
   .then("./routes")
   .then("./config/router.js")

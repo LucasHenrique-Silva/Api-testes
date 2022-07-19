@@ -1,3 +1,4 @@
+/* eslint-disable arrow-parens */
 const request = require("supertest");
 const jwt = require("jwt-simple");
 

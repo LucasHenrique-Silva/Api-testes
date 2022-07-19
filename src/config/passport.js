@@ -1,3 +1,5 @@
+/* eslint-disable object-curly-newline */
+/* eslint-disable arrow-parens */
 const passport = require("passport");
 const passportJwt = require("passport-jwt");
 

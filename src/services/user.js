@@ -26,7 +26,7 @@ module.exports = (app) => {
 
     const userDb = await findOne({ email: user.email });
     if (userDb)
-      throw new ValidationError("Já existe um usuário com esse eemail");
+      throw new ValidationError("Já existe um usuário com esse email");
 
     const newUser = { ...user };
     newUser.password = getpasswordHash(user.password);
